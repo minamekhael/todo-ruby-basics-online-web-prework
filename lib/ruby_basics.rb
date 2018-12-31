@@ -27,5 +27,5 @@ def last_evaluated_value(answer= "expert")
 end
 
 def pizza_party(default= "cheese")
-  puts default
+  puts #{default}
 end
