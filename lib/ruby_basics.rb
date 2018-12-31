@@ -29,3 +29,6 @@ end
 def pizza_party(default= "cheese")
   puts default
 end
+def pizza_party(default= "pepperoni")
+  puts default
+end
